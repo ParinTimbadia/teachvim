@@ -1,0 +1,5 @@
+# TASK: From START, use t to stop just before the colon, then move onto it.
+# On the next line, press $, then use T to stop just after the earlier slash.
+
+START prepare: then continue
+END first / then second / final

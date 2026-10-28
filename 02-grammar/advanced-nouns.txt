@@ -1,0 +1,7 @@
+# TASK: Use inner and outer text objects to change each line as specified
+
+{remove these words, keep the braces}
+main(replace this text with int argc, char **argv)
+array [yank these words]
+tag <remove these words>
+greeting 'replace this text AND quotes with "hello"'

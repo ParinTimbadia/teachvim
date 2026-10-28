@@ -1,0 +1,6 @@
+# TASK: Use Ctrl-v to select the first column across the three rows, press
+# I, type ">> ", then Esc to insert that prefix on every selected line.
+
+alpha
+bravo
+charlie

@@ -1,0 +1,5 @@
+# TASK: Run :%s/teh/the/g, undo it with u, then run :%s/teh/the/gc and
+# confirm each replacement. The final text should have no "teh" typos.
+
+teh quick fox jumps over teh lazy dog.
+Check teh spelling before teh workshop.

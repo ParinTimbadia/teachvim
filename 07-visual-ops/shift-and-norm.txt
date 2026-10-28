@@ -1,0 +1,12 @@
+# TASK: Use V to select the three list lines and > to indent them, then <
+# to undo it. Select them again and run :'<,'>norm A; to append semicolons.
+# On the second block of text, comment out the entire block of code.
+
+first_item
+second_item
+third_item
+
+let active_connection = establish_secure_socket(config);
+let timeout_duration = Duration::from_secs(30);
+let retry_limit = 3;
+let telemetry_enabled = true;

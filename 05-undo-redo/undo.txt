@@ -1,0 +1,5 @@
+# TASK: Change "cold" to "warm" and add " today" to the second line as a
+# separate edit. Undo once, notice what changed, then undo again.
+
+The soup is warm.
+The day is bright today.

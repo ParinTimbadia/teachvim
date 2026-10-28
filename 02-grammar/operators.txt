@@ -1,0 +1,6 @@
+# TASK: Use y, d, and c with motions to yank the marked phrase, delete the
+# marked phrase, and change the marked word to COMPLETE.
+
+YANK THIS whole line and leave the line unchanged. Paste it after.
+DELETE THIS phrase from the sentence.
+Replace BEGIN with COMPLETE, keeping the rest of the line.

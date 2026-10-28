@@ -1,0 +1,7 @@
+# TASK: Change the first "pending" to "done" using c. On each later row,
+# move to pending and press . to repeat the change.
+
+task-01: pending
+task-02: pending
+task-03: pending
+task-04: pending

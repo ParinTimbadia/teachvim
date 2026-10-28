@@ -1,0 +1,123 @@
+Uh oh! Vim mansion has been haunted. It's up to you to clean it up....
+
+ROOM 1: THE CURSED CRYPT: (the BHEE hallways are filled with ghosts! some of them are kind though...)
+--------------------------------------------------------------------------------
+ghost_alpha :: SILENT
+ghost_beta:: SILENT
+ghost_zeta:: SILENT
+ghost_omega :: SILENT
+
+ROOM 2: THE WITCH'S BREW: (someone's 2k7 kit is really, really messed up....)
+--------------------------------------------------------------------------------
+
+Ingredient Array:
+  [1] "SLIME" -> scale: (10g) -> state: {CURSED_RAW}
+  [2] "TOAD_EYE" -> scale: (05g) -> state: {CURSED_RAW}
+  [3] "BAT_WING" -> scale: (12g) -> state: {CURSED_RAW}
+  [4] "NIGHTSHADE" -> scale: (08g) -> state: {CURSED_RAW}
+  [5] "NEWT_TAIL" -> scale: (15g) -> state: {CURSED_RAW}
+  [6] "BONE_DUST" -> scale: (20g) -> state: {CURSED_RAW}
+
+ROOM 3: THE CEMETERY OF REPEATING GRAVES (weird noises are coming from the help rooms in the BHEE basement...)
+--------------------------------------------------------------------------------
+
+[GRAVE 01] Name: Ebenezer Doom | DIED: 1692 | Status: UNREST
+[GRAVE 02] Name: Silas Malice  | DIED: 1704 | Status: UNREST
+[GRAVE 03] Name: Agatha Bane   | DIED: 1741 | Status: UNREST
+[GRAVE 04] Name: Barnaby Hex   | DIED: 1788 | Status: UNREST
+[GRAVE 05] Name: Clara Void    | DIED: 1812 | Status: UNREST
+[GRAVE 06] Name: Gideon Grim   | DIED: 1845 | Status: UNREST
+[GRAVE 07] Name: Hester Blood  | DIED: 1899 | Status: UNREST
+[GRAVE 08] Name: Ichabod Thorn | DIED: 1910 | Status: UNREST
+[GRAVE 09] Name: Jedediah Dark | DIED: 1933 | Status: UNREST
+[GRAVE 10] Name: Lucretia Night| DIED: 1955 | Status: UNREST
+
+ROOM 4: PURIFICATION (the exorcist has arrived! make sure everyone takes their "test" in BHEE 129...)
+--------------------------------------------------------------------------------
+
+CHAPTER I: THE STUDENT DIRECTORY
+--------------------------------------------------------------------------------
+Every creature has a unique PUID, found in the directory: 
+It looks like there are a lot of webs between the directory and the exam room
+
+wraith:W-4471
+ghoul:G-0928
+banshee:B-5503
+zombie:Z-1187
+lich:L-7740
+mummy:M-3326
+vampire:V-9015
+poltergeist:P-6652
+werewolf:WW-2208
+goblin:GB-8814
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~
+~~~^~~|\/|~~~~~|||~~~~~~/\/\~~~:::~~~~~~###~~~~~~|\/|~~~~^~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~/\/\~~~|~~~^~~~|~~~~~~~
+~~~@@@~~~###~~~:::~~~::~️::~~~:::~~~###~~~@@@~~~~~~~~~~~~~~~~~
+~~~~~~~~~:::~~~~|\/|~~~~^~~~~~|||~~~~~/\/\~~~~::~~~~~###~~~~~~~
+~~~/\/\~~~~~~|||~~~^~~~~~~:::~~~/\/\~~|\/|~~~~~~~###~~~~~::~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CHAPTER II: THE PUID CHECK
+--------------------------------------------------------------------------------
+
+SEAL 01: the crypt door of the [lich] is warded with <????> and nothing else
+SEAL 02: why is this coffin so loud? the [vampire] lid is sealed with <????> (rusted shut)
+SEAL 03: [goblin] treasury (who stole the gold? nobody knows?) is locked by <????> for now
+SEAL 04: the fog machine of the [banshee] hums, wails, and obeys <????>
+SEAL 05: [mummy] sarcophagus, wrapped, rewrapped, and sealed with <????> forever
+
+CHAPTER III: THE EXAM
+--------------------------------------------------------------------------------
+Each record is: id,name,hex,level,realm,"notes"
+For every record:
+  1. Delete the hex and realm columns entirely (3rd and 5th), commas included.
+  2. Replace the SECOND-TO-LAST item in the notes with SALT (items are separated by ", ").
+
+101,Barnaby,CURSED,9,Crypt,"stinks, groans, rattles, bites, vanishes"
+102,Morwenna,HEXED,14,Attic,"cackles, flies, hoards cats, steals socks"
+103,Grimsby,CURSED,3,Cellar,"sleeps, snores, floats, wails"
+104,Ophelia,DOOMED,27,Tower,"sings, screams, stares, drifts, pouts, haunts"
+105,Thaddeus,HEXED,8,Ballroom,"waltzes, trips, apologizes, leaves"
+106,Lilith,CURSED,31,Dungeon,"whispers, giggles, plots, forgets, naps"

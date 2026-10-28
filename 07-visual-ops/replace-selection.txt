@@ -1,0 +1,5 @@
+# TASK: Select each word inside brackets with visual mode and use r to
+# replace the selected word with a row of asterisks.
+
+First [replace] this word.
+Then [replace] this word too.

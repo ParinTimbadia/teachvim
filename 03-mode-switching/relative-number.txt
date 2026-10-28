@@ -1,0 +1,11 @@
+# TASK: Yank "echo workshop-ready" from the source line. Run :set relativenumber;
+# from START move down 4 lines to the blank line, enter insert mode, and paste.
+
+Command to copy: echo workshop-ready
+
+START
+one
+two
+three
+
+Afterward, the blank line four lines below START should contain the command.

@@ -1,0 +1,16 @@
+# TASK: Starting on each line's START marker, move to the requested word or
+# character using only h, j, k, l, w, b, e, ^, and $; do not edit the text.
+
+START  Move to the f in finish: begin middle finish
+
+START  Move to the first nonblank character:       aligned text
+
+START  Move to the explanation point: Hi there! Extra
+
+START  Move to the last character: reach the end!
+
+START  Move down to the word river and then to the word stream: 
+       first
+       second
+       river bank
+stream third

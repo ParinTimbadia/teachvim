@@ -1,0 +1,7 @@
+# TASK: Set mark a on the word "RETURN", move to the final line, then jump
+# back to the exact marked position with `a and to its line start with 'a.
+
+First section: take a note here.
+Middle section: keep moving.
+Return here: RETURN to this point.
+Final section: practice the jumps.

@@ -1,0 +1,8 @@
+# TASK: make all the items in the grocery list follow the format of the first
+
+Grocery List 
+- [] tomatoes
+milk
+bananas
+bread
+cereal

@@ -1,0 +1,4 @@
+# TASK: Change "small" to "large", undo the change with u, then restore it
+# with Ctrl-r. Finish with the line reading "A large step forward."
+
+A small step forward.

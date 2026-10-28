@@ -1,0 +1,9 @@
+# TASK: on the first line, traverse the list through the commas.
+# On line 2, press $ first, then use F/ to traverse backwards. 
+# On line 3, use T- to efficiently delete everything besides END and START.
+
+START: red, green, blue, gold
+
+END: first / second / third / fourth START
+
+END: first-second-third-START

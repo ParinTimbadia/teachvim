@@ -1,0 +1,7 @@
+# TASK: Search forward for "maple" with /, use n to visit later matches,
+# then use N to return to the previous match.
+
+oak birch cedar
+oak maple ash
+elm pine maple
+willow spruce

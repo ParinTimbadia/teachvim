@@ -1,0 +1,8 @@
+# TASK: Select the word marked by brackets with v, the marked row with V,
+# and the vertical block with Ctrl-v; stop with each selection highlighted.
+
+Select [this] word with characterwise visual mode.
+Select this whole row with linewise visual mode.
+BLOCK: alpha
+       bravo
+       charlie
